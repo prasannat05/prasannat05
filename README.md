@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Prasanna!
 
-**Student** passionate about technology  
-**Web Development Enthusiast**  
-**Interested in Mobile Technology**  
-Reach me at: [prasannat.it@gmail.com](mailto:prasannat.it@gmail.com)
+- **Student** passionate about technology  
+- **Web Development Enthusiast**  
+- **Interested in Mobile Technology**  
+- Reach me at: [prasannat.it@gmail.com](mailto:prasannat.it@gmail.com)
 
 ---
 
@@ -17,10 +17,4 @@ I'm an aspiring developer exploring the worlds of web and mobile technology. As 
 - Explore the latest in **mobile technology**
 - Always curious about new tools & trends
 
-## Let's Connect
 
-Feel free to reach out via email, or check back soon for more updates and projects!
-
----
-
-> “The best way to learn is by building and sharing.” 
