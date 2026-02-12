@@ -58,12 +58,6 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannat05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasannat05&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</p>
-
 ## 📈 Contribution Graph
 
 <p align="center">
