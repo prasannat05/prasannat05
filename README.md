@@ -22,14 +22,3 @@ me = Student()
 me.say_hi()
 ```
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasannat05&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasannat05&layout=compact&theme=default&hide_border=true)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=prasannat05&theme=minimal&hide_border=true)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=prasannat05&style=flat-square&label=Profile+Views)
