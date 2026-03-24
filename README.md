@@ -12,9 +12,7 @@ class Student:
         self.role = "Aspiring Developer"
         self.location = "Madurai, Tamil Nadu"
         self.education = "Thiagarajar College of Engineering"
-        self.interests = ["Web Development", "Problem Solving", "Open Source"]
-        self.currently_learning = ["Data Structures", "Algorithms", "React"]
-
+        self.interests = ["Web Development", "Problem Solving", "Open Source","AI","Machine Learning","App Development"]
     def say_hi(self):
         print("Thanks for stopping by. Let's build something together.")
 
