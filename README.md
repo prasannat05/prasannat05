@@ -9,36 +9,7 @@
 
 ---
 
-## 🚀 About Me
-
-Aspiring Full-Stack Developer from Madurai, Tamil Nadu, currently studying at Thiagarajar College of Engineering.
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Prasanna T"
-        self.role = "Full-Stack Developer"
-        self.location = "Madurai, Tamil Nadu"
-        self.education = "Thiagarajar College of Engineering"
-    
-    def get_status(self):
-        return "Building elegant solutions for real-world problems 🎯"
-
-me = Developer()
-print(me.get_status())
-```
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasannat05&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasannat05&layout=compact&theme=radical)
-
----
-
-## 📫 Let's Connect!
+## Let's Connect!
 
 I'm always interested in collaborating on interesting projects or discussing technology.
 
@@ -46,13 +17,3 @@ I'm always interested in collaborating on interesting projects or discussing tec
 - **LinkedIn:** [linkedin.com/in/prasannat05](https://www.linkedin.com/in/prasannat05/)
 - **GitHub:** [github.com/prasannat05](https://github.com/prasannat05)
 - **Portfolio:** [prasannat05.github.io](https://prasannat05.github.io)
-
----
-
-<div align="center">
-
-**"The best way to predict the future is to invent it." – Alan Kay**
-
-Feel free to explore my projects and reach out for collaboration!
-
-</div>
